@@ -3,5 +3,59 @@ K
 src/SortTheMatrix/Main.java,d\c\dc917d6609b45a5c3c26bafa5dd72170531e5a50
 R
 "src/ExecutionofAllSuffix/Main.java,9\5\95ea17558c12c751e836961cf5b48123ad6bd1e8
+\
+,src/FindtheArrayConcatenationValue/Main.java,3\7\374062b748ebfdd16e72dc4d4bb056101f8c5a9b
 O
-src/RankTransformofanArray.java,d\d\dd601117d453ca6b3e4589665d23538a06b0e1db
+src/MergeTwobySumming/Main.java,9\6\96dc4c0e1c6a823187e13dd9d3315329cbd7aa12
+\
+,.idea/inspectionProfiles/Project_Default.xml,4\9\496a238a6afa168dbaf6efd37bb459331589579c
+~
+Nsrc/SortEvenandOddIndicesIndependently/SortEvenandOddIndicesIndependently.java,b\7\b76b7deff90888a6c960fd1e91494453328ac09c
+i
+9src/GroupthePeopleGiventheGroupSizeTheyBelongTo/Main.java,8\e\8e47da635e83d333fd2a7857756952dc9c181212
+P
+ src/ThirdMaximumNumber/Main.java,7\d\7d671017727315c51fca8c950f252efd7427dab0
+f
+6src/RankTransformofanArray/RankTransformofanArray.java,4\a\4ab2aeaead45d13e6b225e8b938715d8dccc0895
+J
+src/ValidAnagram/Main.java,a\2\a2315eb9400e744d57f67a39df46f9f0847e3956
+W
+'src/Convert1DArrayInto2DArray/Main.java,4\8\4863ea83a8d677d767d765eed15c384245b4968c
+p
+@src/CountElementsWithStrictlySmallerandGreaterElements/Main.java,f\9\f9e496663634286f2c6eac95b45e00d6b505c952
+Z
+*src/LongestHarmoniousSubsequence/Main.java,b\d\bd3431c224c555a2c79b1cdf90595a3eafa18556
+[
++src/CountHillsandValleysinanArray/Main.java,8\c\8c6cc29dd82e40b545766cd9c221f40beb16363a
+c
+3src/CheckIfAllAreatLeastLengthKPlacesAway/Main.java,9\5\9578e18aae3cc49f47fe5dcc979af4b43b65500b
+]
+-src/KeepMultiplyingFoundValuesbyTwo/Main.java,7\1\710f7287eb5a718605d02686cfe0bdd66f74fc44
+T
+$src/MinimumSizeSubarraySum/Main.java,6\e\6e10e6b58a066df2524553242f423954235b8aa4
+V
+&src/NumberofDistinctAverages/Main.java,b\3\b30260c343e4ef56cda9a3b582d96a3947fd90ec
+W
+'src/NumberofSegmentsinaString/Main.java,7\b\7bcafa219c95aa7254b91f8aaa1a60a0f70b0d69
+`
+0src/NumberofDifferentIntegersinaString/Main.java,f\6\f611578b603c76f1f230255958ca4849a13dbead
+P
+ src/MaxConsecutiveOnes/Main.java,6\2\62b611481c84ccc5a6112bd98f3a1dc6e24c0d3a
+O
+src/RelativeSortArray/Main.java,d\e\dee89a43acc24ed629594a253f6e2851ad20a172
+_
+/src/MinimumDistancetotheTargetElement/Main.java,5\a\5a973002e7933d7c0f3d26110d1c6fbf8f4cf6d2
+e
+5src/MostFrequentNumberFollowingKeyInanArray/Main.java,e\6\e689a504aed19d9f2e795e9ad158b1bbdf37139f
+b
+2src/FormSmallestNumberFromTwoDigitArrays/Main.java,d\6\d65603c3e483db15eebd7d90c7543a952141ea08
+L
+src/TeemoAttacking/Main.java,d\8\d8ede0a56f707d0021cf3d95d39c1cddb0f7efe6
+f
+6src/CanMakeArithmeticProgressionFromSequence/Main.java,c\b\cb0be7a273dee657983911330881b7cc89988d5c
+S
+#src/FindCenterofStarGraph/Main.java,1\5\158c0620420d3ddaf22786ffae6078a0d0fb0999
+V
+&src/KthMissingPositiveNumber/Main.java,7\a\7acf1642927d2c6aef8e4ba898c458016e6253ae
+€
+Psrc/LexicographicallySmallestPalindrome/LexicographicallySmallestPalindrome.java,0\a\0acd5faf74d37070eec87b385d8145ccc8ad6816
