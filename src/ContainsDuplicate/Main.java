@@ -1,8 +1,6 @@
 package ContainsDuplicate;
 
-import java.util.Arrays;
-import java.util.HashSet;
-import java.util.Set;
+import java.util.*;
 import java.util.stream.Collectors;
 
 public class Main {
@@ -11,5 +9,6 @@ public class Main {
        Set<Integer> set = Arrays.stream(nums).boxed().collect(Collectors.toCollection(HashSet::new));
 
         System.out.println(set.size()!=nums.length);
+
     }
 }
