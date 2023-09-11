@@ -10,7 +10,7 @@ public class Main {
         int counter = 1;
         while (counter<=n){
 
-            if(counter%3==0&counter%5==0){
+            if(counter%3==0 && counter%5==0){
                 answer.add("FizzBuzz");
             }else if (counter%5==0){
                 answer.add("Buzz");
